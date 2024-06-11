@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Yann Lemos"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = ""
+logo = "C:\\Users\\yannd\\Downloads\\profilepic.png"
+
+[author]
+name = "Yann Lemos"
+bio = "Designer/Developer"
+image = "img/avatar.png"
+links = [ { email = "" }, { github = "" }, { hackernews = "" }, { linkedin = "" }, { substack = "" } ]
+headline = "Opa, tudo bom?<br> I'm a designer/developer based in Rio de Janeiro, Brazil."

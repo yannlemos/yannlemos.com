@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Yann Lemos</title>
+    <link>http://localhost:1313/tags/audio/</link>
+    <description>Recent content in Audio on Yann Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Yann Lemos</copyright>
+    <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terra Pulse</title>
+      <link>http://localhost:1313/projects/terra-pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/terra-pulse/</guid>
+      <description>Unreleased PC Game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
+    </item>
+    
+    <item>
+      <title>Sky Caravan</title>
+      <link>http://localhost:1313/projects/sky-caravan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/sky-caravan/</guid>
+      <description>PC &amp;amp; Nintendo Switch Game&lt;br&gt;&lt;h5&gt;(2022)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
+    </item>
+    
+    <item>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
+      <description>PC Game&lt;br&gt;(2023)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
+    </item>
+    
+    <item>
+      <title>See</title>
+      <link>http://localhost:1313/projects/see/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/see/</guid>
+      <description>Short film&lt;br&gt;(2024)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
