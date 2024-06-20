@@ -21,7 +21,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = true
+showRecent = false
 showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/posts"
@@ -30,16 +30,16 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -47,13 +47,13 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 showTaxonomies = true
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showZenMode = false
-heroStyle = "basic"
+heroStyle = "background"
 
 [list]
 showHero = true
@@ -66,7 +66,7 @@ showLikes = false
 showTableOfContents = false
 showCards = false
 groupByYear = false
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 heroStyle = "basic"

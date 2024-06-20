@@ -8,7 +8,11 @@ showAuthor: true
 showAuthorBadges: true
 showPagination: false
 ---
+{{< lead >}}
+
 Hey there! 👋
+
+{{< /lead >}}
 
 I'm Yann, a designer/developer from Rio de Janeiro.
 
@@ -26,22 +30,5 @@ I'm passionate about [#gamedev]({{< ref "/tags/game-dev" >}}), [#audio]({{< ref 
 
 Feel free to get in touch and take a look around!
 
---
 
-Article example:
-{{< article link="/posts/post3/" >}}
-
-Button example:
-{{< button href="https://store.steampowered.com/app/1792270/Sky_Caravan/" target="_self" >}}
-Call to action
-{{< /button >}}
-
-Github repo:
-{{< github repo="yannlemos/EPC-Developer-Console" >}}
-
-List:
-{{< list title="Projects" cardView=true limit=10 where="Type" value="Project" >}}
-
-Youtube video:
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
 

@@ -6,7 +6,7 @@ tags: ["game dev", "writing"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-06-11
-draft: false
+draft: true
 ---
 {{< lead >}}
 A deep dive into shipping a Unity game written in the Ink scripting language.

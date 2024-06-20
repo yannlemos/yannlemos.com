@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yann Lemos</copyright>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terra Pulse</title>
       <link>http://localhost:1313/projects/terra-pulse/</link>
@@ -26,26 +26,6 @@
       <guid>http://localhost:1313/projects/sky-caravan/</guid>
       <description>PC &amp;amp; Nintendo Switch Game&lt;br&gt;2022</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
-    </item>
-    
-    <item>
-      <title>Opa!</title>
-      <link>http://localhost:1313/projects/opa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/opa/</guid>
-      <description>Newsletter&lt;br&gt;2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/opa/cover.png" />
-    </item>
-    
-    <item>
-      <title>What I learned writing 90.000 words of interactive narrative (twice)</title>
-      <link>http://localhost:1313/posts/post1/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/post1/</guid>
-      <description>A deep dive into shipping a Unity game written in the Ink scripting language.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post1/cover.jpg" />
     </item>
     
   </channel>

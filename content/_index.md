@@ -1,4 +1,4 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of adding content to the homepage."
+title: "Yann Lemos"
+description: "Designer/Developer based in Rio de Janeiro, Brazil."
 ---

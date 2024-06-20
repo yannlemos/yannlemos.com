@@ -26,8 +26,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.9ae9893374537aff578c1e5f199c719ca0918123598c1ef028cf64b084e20a31acd81f2261e4f502e32c3e329d003bffbfbae8118007ecd6083da136d5b509fe.css"
-    integrity="sha512-mumJM3RTev9XjB5fGZxxnKCRgSNZjB7wKM9ksITiCjGs2B8iYeT1AuMsPjKdADv/v7roEYAH7NYIPaE21bUJ/g==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.eb627f0a8a0a30fe4c0c0eb9d35ae0e743784a33467630d4f4491a55cbdbc185f35462957c8284151144370edfd3ab3235ac36489de3fdf68adee8ee5d8bc315.css"
+    integrity="sha512-62J/CooKMP5MDA6501rg50N4SjNGdjDU9EkaVcvbwYXzVGKVfIKEFRFENw7f06syNaw2SJ3j/faK3ujuXYvDFQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -97,7 +97,7 @@
     "keywords": ["game dev","writing","audio"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "652"
   }]
   </script>
 
@@ -108,19 +108,16 @@
   
   
   
-  <link href="" rel="me" />
+  <link href="mailto:yannlemos@proton.me" rel="me" />
   
   
-  <link href="" rel="me" />
+  <link href="https://github.com/yannlemos" rel="me" />
   
   
-  <link href="" rel="me" />
+  <link href="https://www.linkedin.com/in/yannlemos/" rel="me" />
   
   
-  <link href="" rel="me" />
-  
-  
-  <link href="" rel="me" />
+  <link href="yannlemos" rel="me" />
   
   
   
@@ -159,7 +156,7 @@
   
 </head>
 <body
-  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
+  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
@@ -556,8 +553,80 @@
 
 <article>
   
+  
+  
+  
+  
+  
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/projects/sky-caravan/cover_hu3105207ffd3622b764ebdd6e52473dfe_9548551_1200x0_resize_box_3.png);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
+  
+  
 
   <header id="single_header" class="mt-5 max-w-prose">
+    
+    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+    
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      >Yann Lemos</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline ">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/projects/"
+      >Projects</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/projects/sky-caravan/"
+      >Sky Caravan</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       Sky Caravan
@@ -676,7 +745,121 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#my-role">My Role</a></li>
+        <li><a href="#technical-details">Technical Details</a></li>
+        <li><a href="#development-notes">Development Notes</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#my-role">My Role</a></li>
+        <li><a href="#technical-details">Technical Details</a></li>
+        <li><a href="#development-notes">Development Notes</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -684,7 +867,65 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          
+          <video controls preload="auto" width="100%"  autoplay playsinline class="html-video">
+    <source src="/projects/sky-caravan/video.mp4" type="video/mp4">
+  <span>Your browser doesn't support embedded videos, but don't worry, you can <a href="/projects/sky-caravan/video.mp4">download it</a> and watch it with your favorite video player!</span>
+</video>
+<blockquote>
+<p><em>Welcome to the Skyways, caravaneer. Complete missions, manage your ship’s resources and make tough decisions to keep your crew alive and happy. Or not. Choices have lasting consequences in this Text-Based RPG. You are the captain - and the clouds are waiting!</em></p>
+</blockquote>
+
+
+<h3 class="relative group">My Role 
+    <div id="my-role" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#my-role" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Game Designer, Narrative Designer, Writer, Programmer, Composer, Sound Designer &amp; Business Developer</p>
+
+
+<h3 class="relative group">Technical Details 
+    <div id="technical-details" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#technical-details" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Released on <a href="https://store.steampowered.com/app/1792270/Sky_Caravan/" target="_blank">Steam</a> in 2022</li>
+<li>Released on the <a href="https://www.nintendo.com/us/store/products/sky-caravan-switch/" target="_blank">Nintendo Switch</a> in 2023</li>
+<li>Developed in Unity and written in the <a href="https://github.com/inkle/ink" target="_blank">Ink</a> scripting language</li>
+<li>Audio created in Logic Pro X, implemented with FMOD</li>
+</ul>
+
+
+<h3 class="relative group">Development Notes 
+    <div id="development-notes" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#development-notes" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Sky Caravan is the first game I shipped on PC and a console, and it brings me immense joy to have introduced something so quirky, funny, and uniquely Brazilian into the world.</p>
+<p>Our team at Studio Bravarda embarked on this project as a means to develop a smaller game and get it out the door faster than our then-current project, Terra Pulse. While one of my partners and I were primarily focused on finding publishers, the rest of the team came up with a concept that truly excited us: a narrative game where players choose with emojis, blending elements of Disney’s Treasure Planet with Brazilian culture. I was instantly hooked! We joked at the time about being so tired of dealing with collisions in Terra Pulse (a combat-heavy game) that we decided to make a game with no collisions at all. However, relying solely on words presented its own unique set of challenges.</p>
+<p>Development began in May 2021, and after a full year of hard work, we shipped the game in May 2022. We developed the entire game using the Ink scripting language, a fantastic piece of technology by the folks at Inkle that was mostly a joy to work with, aside from a few hiccups I plan to delve into in a future article. This project marked the first time I was fully immersed in programming, handling all the front-end work for the game.</p>
+<p>There&rsquo;s an interesting tidbit about this project: initially, we wanted to experiment with a &ldquo;narrative roguelike.&rdquo; We crafted numerous small story moments that were pieced together by a procedural system. Pretty neat right? Well, it resulted in a narrative that felt incredibly flat and was nearly impossible to QA. Realizing this too late in development, around the 8-month mark, I proposed to the team that we completely pivot to a linear, character-driven game, adapting all the story moments into specific tailored events that we could polish to the max. I was scared to death of everyone’s reaction, but to my surprise, the reaction from everyone was “God, please, yes!”. Don&rsquo;t mess with procedural narratives.</p>
+<p>So we rewrote approximately 50k words of interactive narrative in the next 4 months, along with writing the final 40k words, totaling 180k words in English and Portuguese. It was a wild ride. I&rsquo;m incredibly proud of the end result and we were also fortunate to receive nominations for some cool awards, which meant a lot to us as it was our first game.</p>
+<p>This project also marked the first time I composed a soundtrack from beginning to end, crafting a complete arc of themes and characters. I can&rsquo;t put into words how fulfilling it was, after a lifetime of playing JRPGs and analyzing their music motifs, to be able to create my own, while incorporating very Brazilian instruments like the pandeiro, nylon guitar, and cavaquinho to create a unique soundscape.</p>
+<p>Seeing my game on a Nintendo console was also a dream come true, made possible thanks to Studio Bravarda’s partnership with RedDeer Games, who handled the porting to the Switch.</p>
+<p>If someone had told me as a kid that I would one day put a talking anteater chef on a Nintendo console, I’d be flabbergasted—but extremely interested.</p>
+
         </div>
         
         
@@ -724,7 +965,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/projects/extremely-powerful-capybaras/">
+            <a class="flex group mr-3" href="/projects/see/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -736,7 +977,7 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Extremely Powerful Capybaras</span
+                  >See</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -777,7 +1018,13 @@
   </footer>
 </article>
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   

@@ -15,3 +15,5 @@ showSummary : false
 sharingLinks : false
 
 ---
+
+I'm currently writing in-depth articles on the development of the three games I worked on since we started Studio Bravarda in 2020. Come back in a few weeks and cool things might spawn in this page.

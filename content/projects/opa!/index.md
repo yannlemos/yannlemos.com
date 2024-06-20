@@ -5,6 +5,6 @@ type: "Project"
 tags: ["writing"]
 showSummary: true
 showDate: false
-draft: false
+draft: true
 weight: 11
 ---

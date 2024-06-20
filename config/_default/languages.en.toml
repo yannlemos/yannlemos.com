@@ -15,5 +15,5 @@ logo = "C:\\Users\\yannd\\Downloads\\profilepic.png"
 name = "Yann Lemos"
 bio = "Designer/Developer"
 image = "img/avatar.png"
-links = [ { email = "" }, { github = "" }, { hackernews = "" }, { linkedin = "" }, { substack = "" } ]
+links = [ { email = "mailto:yannlemos@proton.me" }, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, { discord = "yannlemos"} ]
 headline = "Opa, tudo bom?<br> I'm a designer/developer based in Rio de Janeiro, Brazil."

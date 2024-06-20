@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>See</title>
+      <link>http://localhost:1313/projects/see/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/see/</guid>
+      <description>Short Film&lt;br&gt;2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
+    </item>
+    
+    <item>
       <title>Extremely Powerful Capybaras</title>
       <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,16 +46,6 @@
       <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
       <description>PC Game&lt;br&gt;2023</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
-    </item>
-    
-    <item>
-      <title>See</title>
-      <link>http://localhost:1313/projects/see/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/see/</guid>
-      <description>Short film&lt;br&gt;2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
     </item>
     
   </channel>

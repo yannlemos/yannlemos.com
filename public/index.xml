@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Blowfish! on Yann Lemos</title>
+    <title>Yann Lemos</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Blowfish! on Yann Lemos</description>
+    <description>Recent content on Yann Lemos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yann Lemos</copyright>
@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>See</title>
+      <link>http://localhost:1313/projects/see/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/see/</guid>
+      <description>Short Film&lt;br&gt;2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
+    </item>
+    
+    <item>
       <title>Extremely Powerful Capybaras</title>
       <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,66 +46,6 @@
       <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
       <description>PC Game&lt;br&gt;2023</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
-    </item>
-    
-    <item>
-      <title>See</title>
-      <link>http://localhost:1313/projects/see/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/see/</guid>
-      <description>Short film&lt;br&gt;2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
-    </item>
-    
-    <item>
-      <title>Opa!</title>
-      <link>http://localhost:1313/projects/opa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/opa/</guid>
-      <description>Newsletter&lt;br&gt;2024</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/opa/cover.png" />
-    </item>
-    
-    <item>
-      <title>Geno</title>
-      <link>http://localhost:1313/projects/geno/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/geno/</guid>
-      <description>Application&lt;br&gt;2024</description>
-      
-    </item>
-    
-    <item>
-      <title>F**k around and find out: implementing networking in a local coop game in the middle of development</title>
-      <link>http://localhost:1313/posts/post3/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/post3/</guid>
-      <description>Don&amp;rsquo;t do it.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post3/cover.png" />
-    </item>
-    
-    <item>
-      <title>What happens if you can&#39;t sign the publisher?</title>
-      <link>http://localhost:1313/posts/post2/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/post2/</guid>
-      <description>Ruminations on almosts.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post2/cover.png" />
-    </item>
-    
-    <item>
-      <title>What I learned writing 90.000 words of interactive narrative (twice)</title>
-      <link>http://localhost:1313/posts/post1/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/post1/</guid>
-      <description>A deep dive into shipping a Unity game written in the Ink scripting language.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post1/cover.jpg" />
     </item>
     
     <item>
@@ -114,7 +64,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/now/</guid>
-      <description>June 2024 #1The long postponed digital housekeepingLorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>This is part of the Now Movement.</description>
       
     </item>
     
