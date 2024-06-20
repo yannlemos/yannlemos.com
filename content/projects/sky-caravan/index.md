@@ -44,3 +44,8 @@ This project also marked the first time I composed a soundtrack from beginning t
 Seeing my game on a Nintendo console was also a dream come true, made possible thanks to Studio Bravarda’s partnership with RedDeer Games, who handled the porting to the Switch.
 
 If someone had told me as a kid that I would one day put a talking anteater chef on a Nintendo console, I’d be flabbergasted—but extremely interested.
+
+### Extras
+
+The entire game's script is publicly available in my Github.
+{{< github repo="yannlemos/Sky-Caravan-Ink" >}}

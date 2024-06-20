@@ -38,3 +38,12 @@ But we shipped it.
 We unfortunately weren't able to release it in as stable as state as we'd like. If you look at it right now on Steam, it has mixed reviews, which is something no developer dreams of. However, given how the roller coaster that was development, and the colossal task that was implementing online, It is absolutely fair to say that we did the best we could, and we're still doing it.
 
 This is the game that I am currently working on at Studio Bravarda, and we hope to improve the review scores in the coming updates. If there's one thing that we can appreciate about this moment in the games industry, is that games have second chances, and we're very fortunate to have great partners and players to help us reach our goal. 
+
+### Extras
+
+I open-sourced a few important scripts and tools used in the game. They're available in my Github.
+
+{{< github repo="yannlemos/EPC-Developer-Console" >}}<br>
+{{< github repo="yannlemos/SimpleStats" >}}<br>
+{{< github repo="yannlemos/UnityCondition" >}}<br>
+
