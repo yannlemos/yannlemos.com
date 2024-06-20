@@ -9,6 +9,10 @@ weight: 9
 
 > The story of mother and daughter<br>drifting apart.​<br><br>Water is where they have<br>the connection and disconnection.<br>The water of the womb<br>and the seawater.​​<br>​<br>The mother cannot enter the sea<br>and the daughter wants to go to the deep.
 
+{{< gallery >}}
+  <img src="l1.png" class="grid-w60" />
+{{< /gallery >}}
+
 ### My Role
 
 Composer & Sound Designer

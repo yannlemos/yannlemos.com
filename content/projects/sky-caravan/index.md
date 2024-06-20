@@ -9,6 +9,13 @@ weight: 8
 
 > *Welcome to the Skyways, caravaneer. Complete missions, manage your ship’s resources and make tough decisions to keep your crew alive and happy. Or not. Choices have lasting consequences in this Text-Based RPG. You are the captain - and the clouds are waiting!*
 
+{{< gallery >}}
+  <img src="l1.png" class="grid-w33" />
+  <img src="l2.png" class="grid-w33" />
+  <img src="l3.png" class="grid-w33" />
+  <img src="l4.png" class="grid-w33" />
+{{< /gallery >}}
+
 ### My Role
 
 Game Designer, Narrative Designer, Writer, Programmer, Composer, Sound Designer & Business Developer 

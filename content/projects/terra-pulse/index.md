@@ -9,6 +9,10 @@ weight: 7
 
 > *Explore the vast, long-lost ruins of Rio de Janeiro and unravel humanity’s destiny. Slash and dash your way through monster-infested tropical biomes, unearth the stories of its inhabitants and discover the secret behind the Terra Pulse, in a handcrafted and hand-drawn 2D adventure.*
 
+{{< gallery >}}
+  <img src="l1.png" class="grid-w50" />
+{{< /gallery >}}
+
 ### My Role
 
 Director, Game Designer, Narrative Designer, Writer, Additional Programming, Composer, Sound Designer & Business Developer
