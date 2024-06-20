@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yann Lemos</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://yannlemos.com/tags/</link>
     <description>Recent content in Tags on Yann Lemos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yann Lemos</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yannlemos.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audio</title>
-      <link>http://localhost:1313/tags/audio/</link>
+      <link>https://yannlemos.com/tags/audio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/audio/</guid>
+      <guid>https://yannlemos.com/tags/audio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Dev</title>
-      <link>http://localhost:1313/tags/game-dev/</link>
+      <link>https://yannlemos.com/tags/game-dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/game-dev/</guid>
+      <guid>https://yannlemos.com/tags/game-dev/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/tags/writing/</link>
+      <link>https://yannlemos.com/tags/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/writing/</guid>
+      <guid>https://yannlemos.com/tags/writing/</guid>
       <description></description>
       
     </item>
