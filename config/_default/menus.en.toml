@@ -1,12 +1,12 @@
 [[main]]
 none = "none"
 
-[[main]]
-name = "Projects"
-pre = "pencil"
-pageRef = "projects"
-identifier = "wLfis6szNc"
-weight = 1
+# [[main]]
+# name = "Projects"
+# pre = "pencil"
+# pageRef = "projects"
+# identifier = "wLfis6szNc"
+# weight = 1
 
 [[main]]
 name = "Posts"

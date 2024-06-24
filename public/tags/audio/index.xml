@@ -9,23 +9,13 @@
     <copyright>© 2024 Yann Lemos</copyright>
     <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Terra Pulse</title>
-      <link>http://localhost:1313/projects/terra-pulse/</link>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/terra-pulse/</guid>
-      <description>Unreleased PC Game</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
-    </item>
-    
-    <item>
-      <title>Sky Caravan</title>
-      <link>http://localhost:1313/projects/sky-caravan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/sky-caravan/</guid>
-      <description>PC &amp;amp; Nintendo Switch Game&lt;br&gt;2022</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
+      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
+      <description>PC Game&lt;br&gt;2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
     </item>
     
     <item>
@@ -39,13 +29,23 @@
     </item>
     
     <item>
-      <title>Extremely Powerful Capybaras</title>
-      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
+      <title>Sky Caravan</title>
+      <link>http://localhost:1313/projects/sky-caravan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
-      <description>PC Game&lt;br&gt;2023</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
+      <guid>http://localhost:1313/projects/sky-caravan/</guid>
+      <description>PC &amp;amp; Nintendo Switch Game&lt;br&gt;2022</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
+    </item>
+    
+    <item>
+      <title>Terra Pulse</title>
+      <link>http://localhost:1313/projects/terra-pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/terra-pulse/</guid>
+      <description>Unreleased PC Game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
     </item>
     
   </channel>

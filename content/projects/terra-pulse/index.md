@@ -3,7 +3,7 @@ title: "Terra Pulse"
 summary: "Unreleased PC Game"
 type: "Project"
 tags: ["game dev", "writing", "audio"]
-weight: 7
+weight: 4
 ---
 {{< video src="video" autoplay="true" >}}
 

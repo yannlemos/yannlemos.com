@@ -1,9 +1,9 @@
 ---
 title: "See"
-summary: "Short Film<br>2023"
+summary: "Short Film"
 type: "Project"
 tags: ["audio"]
-weight: 9
+weight: 2
 ---
 {{< video src="video" autoplay="true" >}}
 
@@ -30,4 +30,4 @@ The sound design of See is based on two fundamental elements: authentic sound ef
 
 As for the music, the mother's melody embodies a deep, lower-octave sound with greater intervals between notes, representing age, patience, and care. In contrast, the daughter's melody is constructed upon a 4-note arpeggio, played in higher octaves, signifying playfulness and carefree spirit. However, as the story progresses, the daughter's melody gradually descends, representing her transition from childhood to adulthood and the growing proximity between mother and daughter. Although the melodies initially diverge, they eventually converge into a hybrid melody, symbolizing the strengthening of the bond between mother and daughter. Acoustic instrumentation, such as guitar and piano, was employed to maintain an organic sound and avoid any sense of artificiality.
 
-It was a very demanding project, especially given that I was also working on Extremely Powerful Capybaras, but we were both very satisfied with the results after a year of on and off work, with lots of back and forth and pretty good direction from Julia's part. I'm excited to be able to show the full animation here, but the short hasn't been released yet, so for now, the trailer gives a good idea of the final result! Also please follow and hire [Julia](https://www.linkedin.com/in/julia-nicolescu/), she's an amazing professional! 
+It was a very demanding project, especially given that I was also working on Extremely Powerful Capybaras, but we were both very satisfied with the results after a year of on and off work, with lots of back and forth and pretty good direction from Julia's part. I'm excited to be able to show the full animation here, but the short hasn't been released yet, so for now, the trailer gives a good idea of the final result! Also please follow and hire [Julia](http://junicolescu.com), she's an amazing professional! 

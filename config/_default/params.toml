@@ -71,6 +71,7 @@ cardViewScreenWidth = false
 constrainItemsWidth = false
 heroStyle = "basic"
 showTaxonomies = true
+orderByWeight = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

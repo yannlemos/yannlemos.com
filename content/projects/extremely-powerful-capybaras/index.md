@@ -1,10 +1,10 @@
 ---
 title: "Extremely Powerful Capybaras"
 type: "Project"
-summary: "PC Game<br>2023"
+summary: "PC Game"
 tags: ["game dev", "audio"]
 draft: false
-weight: 10
+weight: 1
 ---
 {{< video src="video" autoplay="true" >}}
 

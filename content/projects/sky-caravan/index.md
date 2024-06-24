@@ -1,9 +1,9 @@
 ---
 title: "Sky Caravan"
-summary: "PC & Nintendo Switch Game<br>2022"
+summary: "PC & Nintendo Switch Game"
 type: "Project"
 tags: ["game dev", "writing", "audio"]
-weight: 8
+weight: 3
 ---
 {{< video src="video" autoplay="true" >}}
 

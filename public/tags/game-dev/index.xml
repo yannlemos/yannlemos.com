@@ -9,13 +9,13 @@
     <copyright>© 2024 Yann Lemos</copyright>
     <atom:link href="http://localhost:1313/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Terra Pulse</title>
-      <link>http://localhost:1313/projects/terra-pulse/</link>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/terra-pulse/</guid>
-      <description>Unreleased PC Game</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
+      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
+      <description>PC Game&lt;br&gt;2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
     </item>
     
     <item>
@@ -29,13 +29,13 @@
     </item>
     
     <item>
-      <title>Extremely Powerful Capybaras</title>
-      <link>http://localhost:1313/projects/extremely-powerful-capybaras/</link>
+      <title>Terra Pulse</title>
+      <link>http://localhost:1313/projects/terra-pulse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/extremely-powerful-capybaras/</guid>
-      <description>PC Game&lt;br&gt;2023</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
+      <guid>http://localhost:1313/projects/terra-pulse/</guid>
+      <description>Unreleased PC Game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
     </item>
     
   </channel>
