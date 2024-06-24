@@ -9,10 +9,10 @@ showAuthorBadges: true
 showPagination: false
 ---
 {{< lead >}}
-Hey there! 👋<br>
+Koé! 👋<br>
 {{< /lead >}}
 
-I'm Yann. I'm passionate about [#gamedev]({{< ref "/tags/game-dev" >}}), [#audio]({{< ref "/tags/audio" >}}) and [#writing]({{< ref "/tags/writing" >}}). My projects have collected some accolades in the last few years, which is pretty cool!
+I'm Yann. I wanted to be a game developer since I was kid, and I'm happy to have made it here. I'm passionate about [#gamedev]({{< ref "/tags/game-dev" >}}), [#audio]({{< ref "/tags/audio" >}}) and [#writing]({{< ref "/tags/writing" >}}), and everything in between. My projects have collected some accolades in the last few years, which is pretty cool!
 
 {{< gallery >}}
   <img src="/projects/sky-caravan/l1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
