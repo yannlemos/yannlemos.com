@@ -31,19 +31,13 @@ Securing a publishing deal with PM Studios and later with Logoi Games were signi
 
 That's when we made the biggest decision fo the project: to transform EPC into an online multiplayer game. It was the most daunting technical problem I've ever faced. None of us had any experience with online development, but we figured out a way. Despite setbacks and delays, we persevered with the support of our partners and players.
 
-Eventually, we made it to December 5th 2023, the release date for the game, and shipped it. The project changed scenarios so many times, new requirements, new challenges, all in my first experience as being a lead programmer. It was crushing at times. 
-
-But we shipped it. 
-
-We unfortunately weren't able to release it in as stable as state as we'd like. If you look at it right now on Steam, it has mixed reviews, which is something no developer dreams of. However, given how the roller coaster that was development, and the colossal task that was implementing online, It is absolutely fair to say that we did the best we could, and we're still doing it.
-
-This is the game that I am currently working on at Studio Bravarda, and we hope to improve the review scores in the coming updates. If there's one thing that we can appreciate about this moment in the games industry, is that games have second chances, and we're very fortunate to have great partners and players to help us reach our goal. 
+Eventually, we made it to December 5th 2023, the release date for the game. The project changed scenarios so many times, new requirements, new challenges, all in my first experience as being a lead programmer. It was crushing at times. But we shipped it. 
 
 ### Extras
 
-I open-sourced a few important scripts and tools used in the game. They're available in my Github.
+I released some development tools I made for the game publicly. They're available in my Github!
 
-{{< github repo="yannlemos/EPC-Developer-Console" >}}<br>
-{{< github repo="yannlemos/SimpleStats" >}}<br>
-{{< github repo="yannlemos/UnityCondition" >}}<br>
+{{< github repo="yannlemos/EPC-Developer-Console" >}}
+
+{{< github repo="yannlemos/UnityCondition" >}}
 

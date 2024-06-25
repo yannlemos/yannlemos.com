@@ -48,4 +48,5 @@ If someone had told me as a kid that I would one day put a talking anteater chef
 ### Extras
 
 The entire game's script is publicly available in my Github.
+
 {{< github repo="yannlemos/Sky-Caravan-Ink" >}}
