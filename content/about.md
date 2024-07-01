@@ -17,7 +17,7 @@ I wanted to be a game developer since I was kid. Happy to have made it this far 
 
 • Co-founder of Studio Bravarda, where I developed Extremely Powerful Capybaras and Sky Caravan with friends and shipped them to multiple platforms.
 
-• Finalist for Best Multiplayer Game at Gamescom Latam 2024 and nominated for several industry awards, such as Most Innovative Newcomer, Best Narrative and Best Brazilian Game.
+• Winner of Best Multiplayer Game at Gamescom Latam 2024 and nominated for several industry awards, such as Most Innovative Newcomer, Best Narrative and Best Brazilian Game.
 
 • Musician and sound designer, responsible for all the audio for Studio Bravarda's games, most-recently having scored the animated short film "See", directed by Julia Nicolescu.
 
