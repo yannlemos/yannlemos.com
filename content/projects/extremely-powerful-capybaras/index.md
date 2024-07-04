@@ -10,6 +10,10 @@ weight: 1
 
 > *Become the bullet hell as a Capybara in this roguelite adventure! <br>Brave the chaos solo or with up to 4 friends, forge your path through hordes of enemies, gather capy-powering weapons & skills and embrace your inner capybara in this action-packed bullet heaven frenzy!*
 
+{{< gallery >}}
+  <img src="l1.png" class="grid-w60" />
+{{< /gallery >}}
+
 ### My Role
 
 Lead Programmer, Composer, Sound Designer & Business Developer 

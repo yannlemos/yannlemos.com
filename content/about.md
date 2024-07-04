@@ -26,6 +26,7 @@ I wanted to be a game developer since I was kid. Happy to have made it this far 
 • Specialized in Unity/C#, with over 5+ years hands-on experience, both as game designer and engineer.
 
 {{< gallery >}}
+  <img src="/projects/extremely-powerful-capybaras/l1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/projects/sky-caravan/l1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/projects/sky-caravan/l2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/projects/sky-caravan/l3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
