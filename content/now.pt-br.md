@@ -14,7 +14,7 @@ Isso faz parte do [Movimento Now](https://nownownow.com/about).<br> Vou atualiza
 
 {{< timeline >}}
 
-{{< timelineItem icon="location-dot" header="Janeiro de 2025" badge="#1" subheader="Em frente" >}}  
+{{< timelineItem icon="location-dot" header="Janeiro de 2025" badge="#2" subheader="Em frente" >}}  
 
 Então, já faz meio ano desde minha última atualização, então vou focar nos destaques:  
 <br><br>• Descobri que tenho TDAH, e acredite se quiser, isso mudou minha vida pra melhor. Comecei a me tratar, me entender, tomar medicação, e nunca estive melhor.  

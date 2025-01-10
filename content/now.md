@@ -15,7 +15,7 @@ This is part of the [Now Movement](https://nownownow.com/about).<br> I'll be upd
 
 {{< timeline >}}
 
-{{< timelineItem icon="location-dot" header="January 2025" badge="#1" subheader="Forward" >}}
+{{< timelineItem icon="location-dot" header="January 2025" badge="#2" subheader="Forward" >}}
 
 So basically a half-year happened since my last update, so I'll focus on the highlights:
 <br><br>• I was diagnosed with ADHD, and this radically changed my life for the better. Been undergoing treatment, taking meds, and I've never been better.
