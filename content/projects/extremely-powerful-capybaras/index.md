@@ -21,7 +21,7 @@ Lead Programmer, Composer, Sound Designer & Business Developer
 ### Technical Details
 
 - Released on [Steam](https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/) in December 2023
-- Coming late 2024 to Xbox Series X/S, PS4, PS5 & Nintendo Switch
+- Coming Q1 2025 to Xbox Series X/S, PS4, PS5 & Nintendo Switch
 - Developed in Unity
 - Audio created in Logic Pro X, implemented with FMOD
 
