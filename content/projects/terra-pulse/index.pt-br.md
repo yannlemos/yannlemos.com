@@ -1,6 +1,6 @@
 ---  
 title: "Terra Pulse"  
-summary: "Jogo (não-lançado)"  
+summary: "Jogo (Não-lançado)"  
 type: "Project"  
 tags: ["game dev", "roteiro", "áudio"]  
 weight: 4  

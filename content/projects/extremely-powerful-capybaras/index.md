@@ -1,7 +1,7 @@
 ---
 title: "Extremely Powerful Capybaras"
 type: "Project"
-summary: "PC Game"
+summary: "Game (PC)"
 tags: ["game dev", "audio"]
 draft: false
 weight: 1

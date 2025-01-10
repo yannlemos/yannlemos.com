@@ -1,6 +1,6 @@
 ---
 title: "Terra Pulse"
-summary: "Unreleased PC Game"
+summary: "Game (Unreleased)"
 type: "Project"
 tags: ["game dev", "writing", "audio"]
 weight: 4
