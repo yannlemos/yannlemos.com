@@ -1,0 +1,33 @@
+[[main]]
+none = "none"
+
+# [[main]]
+# name = "Projects"
+# pre = "pencil"
+# pageRef = "projects"
+# identifier = "wLfis6szNc"
+# weight = 1
+
+# [[main]]
+# name = "Posts"
+# pre = "list"
+# pageRef = "posts"
+# identifier = "ikO9FuGztx"
+# weight = 2
+
+[[main]]
+name = "Sobre"
+pageRef = "about"
+pre = "comment"
+identifier = "FkNu64n5w6"
+weight = 9999
+
+[[main]]
+name = "Agora"
+pageRef = "now"
+pre = "location-dot"
+identifier = "80eqLJnwML"
+weight = 9999
+
+[[footer]]
+none = "none"

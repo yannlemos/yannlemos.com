@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yann Lemos</title>
+    <link>http://localhost:1313/pt-br/</link>
+    <description>Recent content on Yann Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Yann Lemos</copyright>
+    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/pt-br/projects/extremely-powerful-capybaras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/projects/extremely-powerful-capybaras/</guid>
+      <description>Jogo (PC)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/extremely-powerful-capybaras/cover.png" />
+    </item>
+    
+    <item>
+      <title>See</title>
+      <link>http://localhost:1313/pt-br/projects/see/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/projects/see/</guid>
+      <description>Curta-Metragem</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/see/cover.png" />
+    </item>
+    
+    <item>
+      <title>Sky Caravan</title>
+      <link>http://localhost:1313/pt-br/projects/sky-caravan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/projects/sky-caravan/</guid>
+      <description>Jogo (PC &amp;amp; Nintendo Switch)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sky-caravan/cover.png" />
+    </item>
+    
+    <item>
+      <title>Terra Pulse</title>
+      <link>http://localhost:1313/pt-br/projects/terra-pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/projects/terra-pulse/</guid>
+      <description>Jogo (não-lançado)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/terra-pulse/cover.png" />
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/pt-br/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/now/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

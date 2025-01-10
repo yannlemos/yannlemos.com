@@ -13,17 +13,22 @@ Koé! 👋<br>
 {{< /lead >}}
 
 I’m Yann. I’m passionate about games, music, stories, and everything in between. 
-I wanted to be a game developer since I was kid. Happy to have made it this far 😊
+
+I wanted to be a game developer since I was kid.<br>Happy to have made it this far ☺️
 
 • Co-founder of Studio Bravarda, where I developed Extremely Powerful Capybaras and Sky Caravan with friends and shipped them to multiple platforms.
 
 • Winner of Best Multiplayer Game at Gamescom Latam 2024 and nominated for several industry awards, such as Most Innovative Newcomer, Best Narrative and Best Brazilian Game.
 
-• Musician and sound designer, responsible for all the audio for Studio Bravarda's games, most-recently having scored the animated short film "See", directed by Julia Nicolescu.
+• Musician and sound designer specialized in Logic Pro X and acoustic guitars. Responsible for all the audio for Studio Bravarda's games, most-recently having scored the animated short film "See", directed by Julia Nicolescu.
 
-• Experienced with teaching, having spent four years in Senac-RJ instructing design and game development to hundreds of students while also creating new courses for the institution.
+• Experienced with teaching, having spent four years in Senac-RJ, brazil's foremost professional education institution, instructing design and game development to hundreds of students while also creating new courses for the curriculum.
 
-• Specialized in Unity/C#, with over 5+ years hands-on experience, both as game designer and engineer.
+• Specialized in Unity/C#, with over 5+ years hands-on experience, both as game designer and engineer and two games shipped engine. 
+
+• Transitioning to Godot and GDScript and having tons of fun with it.
+
+• Running a Youtube channel in portuguese to share my learnings from years working as an indie developer.
 
 {{< gallery >}}
   <img src="/projects/extremely-powerful-capybaras/l1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
