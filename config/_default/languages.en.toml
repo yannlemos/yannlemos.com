@@ -15,6 +15,6 @@ logo = "C:\\Users\\yannd\\Downloads\\profilepic.png"
 name = "Yann Lemos"
 bio = "Game Developer"
 image = "img/avatar.png"
-links = [ { email = "mailto:yannlemos@proton.me" }, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, { discord = "https://discord.com/channels/@yannlemos" }, { x-twitter = "https://x.com/yannlemos" } ]
+links = [{ youtube = "https://www.youtube.com/@yannlemos"}, { instagram = "https://www.instagram.com/yann.lemos/"}, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, {bluesky = "https://bsky.app/profile/yann-lemos.bsky.social"}, { email = "mailto:yannlemos@proton.me" }]
 headline = "Opa, tudo bom?<br>I'm a game developer based in Rio de Janeiro, Brazil."
 
