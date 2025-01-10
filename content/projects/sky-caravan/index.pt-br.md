@@ -1,6 +1,6 @@
 ---  
 title: "Sky Caravan"  
-summary: "Jogo (PC & Nintendo Switch)"  
+summary: "Jogo (PC e Nintendo Switch)"  
 type: "Project"  
 tags: ["game dev", "roteiro", "áudio"]  
 weight: 3  
