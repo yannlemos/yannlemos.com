@@ -8,12 +8,12 @@ none = "none"
 # identifier = "wLfis6szNc"
 # weight = 1
 
-[[main]]
-name = "Posts"
-pre = "list"
-pageRef = "posts"
-identifier = "ikO9FuGztx"
-weight = 2
+# [[main]]
+# name = "Posts"
+# pre = "list"
+# pageRef = "posts"
+# identifier = "ikO9FuGztx"
+# weight = 2
 
 [[main]]
 name = "About"

@@ -11,9 +11,10 @@ dateFormat = "2 January 2006"
 description = ""
 logo = "C:\\Users\\yannd\\Downloads\\profilepic.png"
 
-[author]
+[params.author]
 name = "Yann Lemos"
 bio = "Game Developer"
 image = "img/avatar.png"
-links = [ { email = "mailto:yannlemos@proton.me" }, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, { discord = "https://discord.com/channels/@yannlemos"}, { x-twitter = "https://x.com/yannlemos"} ]
+links = [ { email = "mailto:yannlemos@proton.me" }, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, { discord = "https://discord.com/channels/@yannlemos" }, { x-twitter = "https://x.com/yannlemos" } ]
 headline = "Opa, tudo bom?<br>I'm a game developer based in Rio de Janeiro, Brazil."
+
