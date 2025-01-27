@@ -16,4 +16,4 @@ name = "Yann Lemos"
 bio = "Desenvolvedor de Jogos, Músico & Professor"
 image = "img/avatar.png"
 links = [{ youtube = "https://www.youtube.com/@yannlemos"}, { instagram = "https://www.instagram.com/yann.lemos/"}, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, {bluesky = "https://bsky.app/profile/yann-lemos.bsky.social"}, { email = "mailto:yannlemos@proton.me" }]
-headline = "Opa, tudo bom?<br>Sou um desenvolvedor de jogos premiado, músico e professor baseado no Rio de Janeiro"
+headline = "Opa, tudo bom?<br>Sou um game dev premiado, músico e professor baseado no Rio de Janeiro"
