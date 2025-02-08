@@ -3,7 +3,7 @@ title: "See"
 summary: "Curta-Metragem"  
 type: "Project"  
 tags: ["áudio"]  
-weight: 2  
+weight: 3
 ---  
 {{< video src="video" autoplay="true" >}}  
 

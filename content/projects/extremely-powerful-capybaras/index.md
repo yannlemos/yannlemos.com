@@ -4,7 +4,7 @@ type: "Project"
 summary: "Game (PC)"
 tags: ["game dev", "audio"]
 draft: false
-weight: 1
+weight: 2
 ---
 {{< video src="video" autoplay="true" >}}
 
@@ -39,9 +39,14 @@ Eventually, we made it to December 5th 2023, the release date for the game. The 
 
 ### Extras
 
+The soundtrack is freely available in my Youtube channel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tGLGrV-7UALqmdWE&amp;list=PLixuMcs0TFeqnyWoggU6e0CLpxDyWfnXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I released some development tools I made for the game publicly. They're available in my Github!
 
 {{< github repo="yannlemos/EPC-Developer-Console" >}}
-
 {{< github repo="yannlemos/UnityCondition" >}}
+
+
 

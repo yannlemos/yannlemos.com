@@ -4,7 +4,7 @@ type: "Project"
 summary: "Jogo (PC)"  
 tags: ["game dev", "áudio"]  
 draft: false  
-weight: 1  
+weight: 2
 ---  
 {{< video src="video" autoplay="true" >}}  
 
@@ -38,6 +38,10 @@ Foi então que tomamos a maior decisão do projeto: transformar EPC em um jogo m
 Eventualmente, chegamos ao dia 5 de dezembro de 2023, data de lançamento do jogo. O projeto passou por tantas mudanças de cenário, novos requisitos, novos desafios, tudo isso na minha primeira experiência como programador líder. Foi esmagador às vezes. Mas entregamos o jogo.  
 
 ### Extras  
+
+A trilha-sonora está disponível gratuitamente no meu canal do Youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tGLGrV-7UALqmdWE&amp;list=PLixuMcs0TFeqnyWoggU6e0CLpxDyWfnXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Liberei o código gratuitamente de algumas ferramentas de desenvolvimento que fiz para o jogo. Elas estão disponíveis no meu Github!  
 

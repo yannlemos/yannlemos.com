@@ -3,7 +3,7 @@ title: "Sky Caravan"
 summary: "Game (PC/Nintendo Switch)"
 type: "Project"
 tags: ["game dev", "writing", "audio"]
-weight: 3
+weight: 4
 ---
 {{< video src="video" autoplay="true" >}}
 
@@ -47,6 +47,14 @@ If someone had told me as a kid that I would one day put a talking anteater chef
 
 ### Extras
 
-The entire game's script is publicly available in my Github.
+The soundtrack is freely available in my Youtube channel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=jKqH_RjsVbjsndBP&amp;list=PLixuMcs0TFeoBSSEZt7s8dCRsV8F567tY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The entire game's script is publicly available in my Github:
 
 {{< github repo="yannlemos/Sky-Caravan-Ink" >}}
+
+I released a video (in portuguese) in my Youtube channel talking about the game, exploring the repo above and talking about some lessons learned, alongside some tips for aspiring game writers:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdeSwZjMp2w?si=U1f25gZbd8HSIqfC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 

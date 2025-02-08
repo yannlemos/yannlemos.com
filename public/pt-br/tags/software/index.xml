@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Yann Lemos</title>
+    <link>http://localhost:1313/pt-br/tags/software/</link>
+    <description>Recent content in Software on Yann Lemos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2025 Yann Lemos</copyright>
+    <atom:link href="http://localhost:1313/pt-br/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Signal Lens</title>
+      <link>http://localhost:1313/pt-br/projects/signal-lens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/projects/signal-lens/</guid>
+      <description>Plugin para Godot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/signal-lens/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

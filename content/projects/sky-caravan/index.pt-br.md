@@ -3,7 +3,7 @@ title: "Sky Caravan"
 summary: "Jogo (PC/Nintendo Switch)"  
 type: "Project"  
 tags: ["game dev", "roteiro", "áudio"]  
-weight: 3  
+weight: 4
 ---  
 {{< video src="video" autoplay="true" >}}  
 
@@ -47,6 +47,14 @@ Se alguém tivesse me dito, quando criança, que eu colocaria um tamanduá-chef 
 
 ### Extras  
 
-O script completo do jogo está disponível publicamente no meu Github.  
+A trilha-sonora está disponível gratuitamente no meu canal do Youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=jKqH_RjsVbjsndBP&amp;list=PLixuMcs0TFeoBSSEZt7s8dCRsV8F567tY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+O script completo do jogo está disponível publicamente no meu Github:
 
 {{< github repo="yannlemos/Sky-Caravan-Ink" >}}  
+
+Lancei um vídeo no meu canal do YouTube falando sobre o jogo, explorando o repositório acima e compartilhando algumas lições aprendidas, além de dicas para aspirantes a roteiristas de jogos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdeSwZjMp2w?si=U1f25gZbd8HSIqfC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 

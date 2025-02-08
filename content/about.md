@@ -14,7 +14,8 @@ Koé! 👋<br>
 
 I’m Yann. I’m passionate about games, music, stories, and everything in between. 
 
-I wanted to be a game developer since I was kid.<br>Happy to have made it this far ☺️
+I wanted to be a game developer since I was kid.
+<br>Happy to have made it this far ☺️
 
 • Co-founder of Studio Bravarda, where I developed Extremely Powerful Capybaras and Sky Caravan with friends and shipped them to multiple platforms.
 
@@ -24,11 +25,13 @@ I wanted to be a game developer since I was kid.<br>Happy to have made it this f
 
 • Experienced with teaching, having spent four years in Senac-RJ, brazil's foremost professional education institution, instructing design and game development to hundreds of students while also creating new courses for the curriculum.
 
-• Specialized in Unity/C#, with over 5+ years hands-on experience, both as game designer and engineer and two games shipped engine. 
+• Accomplished in Unity/C#, with over 5+ years hands-on experience, both as game designer and engineer and two games shipped using the engine. 
 
-• Transitioning to Godot and GDScript and having tons of fun with it.
+• Currently focused in Godot and GDScript and having tons of fun with it.
 
-• Running a Youtube channel in portuguese to share my learnings from years working as an indie developer.
+• Creator and maintainer of Signal Lens, a debugger plugin for Godot.
+
+• Running a Youtube channel in portuguese to share my learnings from years working as an indie developer and content about Godot.
 
 {{< gallery >}}
   <img src="/projects/extremely-powerful-capybaras/l1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />

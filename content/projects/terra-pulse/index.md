@@ -3,7 +3,7 @@ title: "Terra Pulse"
 summary: "Game (Unreleased)"
 type: "Project"
 tags: ["game dev", "writing", "audio"]
-weight: 4
+weight: 5
 ---
 {{< video src="video" autoplay="true" >}}
 
@@ -33,3 +33,9 @@ It still breaks my heart that we weren't able to see Terra Pulse through to comp
 Looking at the material I've compiled, i need to admit that it brings mixed feelings, of course. I mean, how many game devs put cancelled projects in their portfolios? Still, I somehow can't help but feel proud about having attemped this with my team. A metroidvania in the ruins of Rio de Janeiro? This is the stuff I dreamed about making games for. I learned so much. I'm grateful.
 
 I remain hopeful that one day, armed with greater experience, I'll be able to fulfill the promise of Terra Pulse.
+
+### Extras
+
+A piece of the game's soundtrack:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Dn3lBPutJs?si=XpcNuarlh01vS1oL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

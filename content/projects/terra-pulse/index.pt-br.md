@@ -3,7 +3,7 @@ title: "Terra Pulse"
 summary: "Jogo (Não-lançado)"  
 type: "Project"  
 tags: ["game dev", "roteiro", "áudio"]  
-weight: 4  
+weight: 5
 ---  
 {{< video src="video" autoplay="true" >}}  
 
@@ -33,3 +33,9 @@ Ainda parte meu coração que não conseguimos concluir Terra Pulse, especialmen
 Ao olhar para o material que compilei, admito que sinto sentimentos mistos, claro. Quero dizer, quantos desenvolvedores colocam projetos cancelados em seus portfólios? Ainda assim, de alguma forma, não consigo deixar de sentir orgulho por ter tentado isso com minha equipe. Um *metroidvania* nas ruínas do Rio de Janeiro? É por isso que sonhei em fazer jogos. Aprendi muito. Sou grato.  
 
 Permaneço esperançoso de que, um dia, com mais experiência, poderei cumprir a promessa de Terra Pulse.  
+
+### Extras
+
+Uma peça de trilha-sonora do jogo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Dn3lBPutJs?si=XpcNuarlh01vS1oL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

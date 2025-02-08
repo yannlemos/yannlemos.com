@@ -25,9 +25,11 @@ Queria ser desenvolvedor de jogos desde criança.
 
 • Professor experiente, tendo passado quatro anos no Senac-RJ, ministrando cursos de design e desenvolvimento de jogos para centenas de alunos, além de criar novos cursos para o currículo.
 
-• Especialista em Unity/C#, com mais de 5 anos de experiência prática, atuando como game designer e engenheiro, tendo lançado dois jogos com essa engine.
+• Veterano em Unity/C#, com mais de 5 anos de experiência prática, atuando como game designer e engenheiro, tendo lançado dois jogos com essa engine.
 
-• Transicionando para o Godot e GDScript e me divertindo bastante no processo.
+• Atualmente focando em Godot e GDscript e me divertindo muito no processo.
+
+• Craidor e mantenedor do Signal Lens, um plugin de depuração para o Godot.
 
 • Desenvolvendo um canal no YouTube em português onde compartilho o que aprendi ao longo dos anos como desenvolvedor indie e conteúdo sobre Godot.
 
