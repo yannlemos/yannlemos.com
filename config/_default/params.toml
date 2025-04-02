@@ -21,9 +21,9 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = false
+showRecent = true
 showRecentItems = "5"
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
@@ -58,21 +58,20 @@ heroStyle = "background"
 
 [list]
 showHero = true
-layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true # only used when heroStyle equals background
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = true
 showViews = false
 showLikes = false
-showTableOfContents = false
-showCards = false
+showTableOfContents = true
+showCards = true
+orderByWeight = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
-heroStyle = "basic"
-showTaxonomies = true
-orderByWeight = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

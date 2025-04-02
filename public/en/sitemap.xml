@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/projects/signal-lens/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/signal-lens/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/signal-lens/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/extremely-powerful-capybaras/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -63,6 +78,30 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/post3/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/post2/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/post1/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -77,12 +116,6 @@
       hreflang="en"
       href="http://localhost:1313/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tests/</loc>
@@ -104,6 +137,11 @@
       hreflang="en"
       href="http://localhost:1313/about/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/mentorships/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/now/</loc>

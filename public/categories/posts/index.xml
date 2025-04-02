@@ -6,8 +6,19 @@
     <description>Recent content in Posts on Yann Lemos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Yann Lemos</copyright>
+    <copyright>© 2025 Yann Lemos</copyright>
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>F**k around and find out: implementing networking in a local coop game in the middle of development</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>Don&amp;rsquo;t do it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post3/cover.png" />
+    </item>
+    
     <item>
       <title>What happens if you can&#39;t sign the publisher?</title>
       <link>http://localhost:1313/posts/post2/</link>

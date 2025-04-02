@@ -6,7 +6,7 @@ tags: ["game dev"]
 #externalUrl: ""
 #showSummary: true
 date: 2024-06-11
-draft: true
+draft: false
 ---
 
 ## Lorem ipsum dolor sit amet

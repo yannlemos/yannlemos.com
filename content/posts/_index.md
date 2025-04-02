@@ -1,13 +1,11 @@
 ---
-title: "Posts"
-date: 2022-06-13T20:55:37+01:00
-draft: false
+title: "Blog"
 
 showDate : false
 showDateUpdated : false
-showHeadingAnchors : false
+showHeadingAnchors : true
 showPagination : false
-showReadingTime : false
+showReadingTime : true
 showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
@@ -15,5 +13,10 @@ showSummary : false
 sharingLinks : false
 
 ---
+{{< lead >}}
+Simple, yet powerful. Learn how to use Blowfish and its features.
+{{< /lead >}}
 
-I'm currently writing in-depth articles on the development of the three games I worked on since we started Studio Bravarda in 2020. Come back in a few weeks and cool things might spawn in this page.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+---

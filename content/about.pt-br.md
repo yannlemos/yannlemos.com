@@ -29,7 +29,7 @@ Queria ser desenvolvedor de jogos desde criança.
 
 • Atualmente focando em Godot e GDscript e me divertindo muito no processo.
 
-• Craidor e mantenedor do Signal Lens, um plugin de depuração para o Godot.
+• Criador e maintainer do Signal Lens, um plugin debugger para o Godot.
 
 • Desenvolvendo um canal no YouTube em português onde compartilho o que aprendi ao longo dos anos como desenvolvedor indie e conteúdo sobre Godot.
 

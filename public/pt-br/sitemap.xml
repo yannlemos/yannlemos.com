@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/pt-br/projects/signal-lens/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/signal-lens/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/signal-lens/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/pt-br/projects/extremely-powerful-capybaras/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

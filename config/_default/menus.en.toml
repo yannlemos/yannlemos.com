@@ -1,33 +1,47 @@
 [[main]]
 none = "none"
 
-# [[main]]
-# name = "Projects"
-# pre = "pencil"
-# pageRef = "projects"
-# identifier = "wLfis6szNc"
-# weight = 1
+[[main]]
+name = "Projects"
+pre = "pencil"
+pageRef = "projects"
+identifier = ""
+weight = 1
+
+[[main]]
+name = "Mentorships"
+pre = "heart"
+pageRef = "mentorships"
+identifier = ""
+weight = 3
 
 # [[main]]
-# name = "Posts"
-# pre = "list"
-# pageRef = "posts"
-# identifier = "ikO9FuGztx"
+# name = "Courses"
+# pre = "check"
+# pageRef = "courses"
+# identifier = ""
 # weight = 2
 
 [[main]]
-name = "About"
-pageRef = "about"
-pre = "comment"
-identifier = "FkNu64n5w6"
-weight = 9999
+name = "Blog"
+pre = "list"
+pageRef = "posts"
+identifier = "ikO9FuGztx"
+weight = 4
 
 [[main]]
 name = "Now"
 pre = "location-dot"
 pageRef = "now"
 identifier = "80eqLJnwML"
-weight = 9999
+weight = 6
+
+[[main]]
+name = "About"
+pageRef = "about"
+pre = "comment"
+identifier = "FkNu64n5w6"
+weight = 5
 
 [[footer]]
 none = "none"

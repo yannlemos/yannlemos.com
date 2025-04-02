@@ -15,5 +15,6 @@ logo = "C:\\Users\\yannd\\Downloads\\profilepic.png"
 name = "Yann Lemos"
 bio = "Game Dev, Musician & Teacher"
 image = "img/avatar.png"
-links = [{ youtube = "https://www.youtube.com/@yannlemos"}, { instagram = "https://www.instagram.com/yann.lemos/"}, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, {bluesky = "https://bsky.app/profile/yann-lemos.bsky.social"}, { email = "mailto:yannlemos@proton.me" }]
-headline = "Opa, tudo bom?<br>I'm an award-winning game dev, musician and teacher based in Rio de Janeiro, Brazil"
+links = [{ youtube = "https://www.youtube.com/@yannlemos"}, { instagram = "https://www.instagram.com/yann.lemos/"}, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, {bluesky = "https://bsky.app/profile/yann-lemos.bsky.social"}, { email = "mailto:yannlemos@proton.me" }, { patreon = "https://www.patreon.com/yannlemos_"}]
+# headline = "<br>Opa, tudo bom?<br>I'm an award-winning game dev, musician and teacher based in Rio de Janeiro, Brazil.<br>Currently working at Studio Bravarda with friends, developing tools for Godot and mentoring indie devs.<br><br>"
+headline = "Opa, tudo bom?"
