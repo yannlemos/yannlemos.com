@@ -73,18 +73,6 @@ Become a member!
 
 — Luiza Arantes (Vancouver, Canada)
 
-> "What can I say about Yann? Well, he's the kind of person you can talk to for hours and walk away not only with amazing stories but also with life-long lessons. In Design, where we met 10 years ago, I was immediately drawn to his vibrant personality and genuine passion for games.  
->   
-> Beyond his vast knowledge in the field, Yann is incredibly patient; he has a special way of engaging people and knows how to capture a class's attention. He has a unique ability to turn complex topics into something interesting and easy to understand, creating a lighthearted yet content-rich learning environment. I have no doubt that he is an inspiring mentor who will greatly contribute to the training of future game development talents."
-
-— Julia Nicolescu (Rio de Janeiro, Brazil)
-
-> "Taking a class with someone who is passionate about what they teach is an infinitely better experience. Yann inspired me with his love for games and even more with his passion for teaching people how to make games and pursue this dream.  
->   
-> He truly listens, pays attention to every little detail, cares about his students, knows a lot about the industry, and has great life stories to share. I highly recommend him."  
-
-— Alexia Figueiredo (Rio de Janeiro, Brazil)
-
 
 ### Disclaimers
 

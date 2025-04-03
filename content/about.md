@@ -35,7 +35,7 @@ I wanted to be a game developer since I was kid.
 
 • Running a [Youtube channel](https://www.youtube.com/@yannlemos) in portuguese to share my learnings from years working as an indie developer and content about Godot.
 
-• Mentoring indie game developers all over the world through my [Patreon](https://www.patreon.com/yannlemos_).
+• Mentoring game developers from all over the world through my [Patreon](https://www.patreon.com/yannlemos_).
 
 ### Awards
 <br>
