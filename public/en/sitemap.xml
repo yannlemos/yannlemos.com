@@ -6,76 +6,26 @@
     <loc>http://localhost:1313/projects/signal-lens/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/signal-lens/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/signal-lens/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/projects/extremely-powerful-capybaras/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/extremely-powerful-capybaras/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/extremely-powerful-capybaras/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/projects/see/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/see/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/see/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/projects/sky-caravan/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/sky-caravan/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/sky-caravan/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/projects/terra-pulse/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/terra-pulse/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/terra-pulse/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
@@ -118,25 +68,9 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tests/</loc>
-    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/about/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/mentorships/</loc>
@@ -147,30 +81,10 @@
     <loc>http://localhost:1313/now/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/now/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/now/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/projects/"
-    />
   </url>
 </urlset>

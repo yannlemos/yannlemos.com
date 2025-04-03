@@ -15,6 +15,27 @@ This is part of the [Now Movement](https://nownownow.com/about).<br> I'll be upd
 
 {{< timeline >}}
 
+{{< timelineItem icon="location-dot" header="April 2025" badge="#3" subheader="Tinkering & teaching" >}}
+
+I've had quite a hectic, but really great start of 2025. I've wrapped my first Godot project (external project under NDA, so no sharing for now) and it had a great response. Godot fulfilled all its promises for me and more. I couldn't be happier.
+<br><br>
+So I started making tools for it! It just makes sense that I'd become a tool-maker, coming from a design background into programming. So I released <a href="https://github.com/yannlemos/signal-lens">Signal Lens</a>, a debugger, <a href="https://github.com/yannlemos/Resource-Tweens">Resource Tweens</a>, an animation solution and have been developing <a href="https://bsky.app/profile/yann-lemos.bsky.social/post/3lloxlzuq4s2z">StoryTree</a>, for now an in-house graph-based dialogue tool.
+<br><br>
+
+Amidst all this, after a few years of informal mentoring and talks with other indie devs, I've decided to organize my efforts and offer mentoring more formally through <a href="https://www.patreon.com/yannlemos">Patreon</a>. I've had amazing experiences teaching other game devs and I want to be able to do more of it from now on. I'm really excited to go back to teaching after a few years off of it since leaving my teaching job at Senac-RJ.
+<br><br>
+Hope next update I'll write that I've completed a 5k running. It's not a lot, but it's an important personal milestone and I've never been closer.
+<br><br>
+It's all been very fulfilling, and I'm feeling pretty good about the rest of the year. 
+
+<br>
+
+<br> 📚 Reading:</b> <i>The Horus Heresy</i> by multiple authors. Yes, I've been grimdark-pilled and no one can stop me, Warhammer 40k is now my religion and the Emperor is my god. Hyperbolisms aside, these books have outperformed every criteria for me. Just pure awesomeness and enjoyment and good writing. I can't help but feel that Horus is top-tier bro, so let's see if next update after reading everything I'll still have the same opinion.
+<br><br><b> 🎮 Playing:</b> <i>Cities Skylines</i> (PS4). I beat Horizon: Zero Dawn, and it was probably the best open-world game I've ever played. Even did a <a href="https://www.youtube.com/watch?v=eQJ5CEDpEIA">video</a> analyzing its post-mortem. Then I decided to take a break and indulge in the addictive qualities of city-building. It's my zen place between big games.
+<br><br><b> 📺 Watching:</b> <i>A Grande Família</i>, yeah, still watching it, I mean, it's like 18 seasons? But I also started watching <i>Rome</i>, the HBO series, and been finding it pretty great. Didn't think a buddy-cop comedy (that's the way I see it) set in the civil-war period of ancient Rome would work so well, but it does!
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="location-dot" header="January 2025" badge="#2" subheader="Forward" >}}
 
 So basically a half-year happened since my last update, so I'll focus on the highlights:

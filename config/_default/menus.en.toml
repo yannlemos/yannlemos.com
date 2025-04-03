@@ -22,12 +22,12 @@ weight = 3
 # identifier = ""
 # weight = 2
 
-[[main]]
-name = "Blog"
-pre = "list"
-pageRef = "posts"
-identifier = "ikO9FuGztx"
-weight = 4
+# [[main]]
+# name = "Blog"
+# pre = "list"
+# pageRef = "posts"
+# identifier = "ikO9FuGztx"
+# weight = 4
 
 [[main]]
 name = "Now"

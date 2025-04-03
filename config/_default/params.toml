@@ -7,7 +7,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 smartTOC = true
 highlightCurrentMenuArea = true
-mainSections = [ "posts" ]
+mainSections = [ "Project" ]
 
 [header]
 layout = "fixed-fill-blur"
@@ -22,9 +22,9 @@ showScrollToTop = true
 [homepage]
 layout = "profile"
 showRecent = true
-showRecentItems = "5"
+showRecentItems = "3"
 showMoreLink = true
-showMoreLinkDest = "/posts"
+showMoreLinkDest = "/projects"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
@@ -58,8 +58,8 @@ heroStyle = "background"
 
 [list]
 showHero = true
-heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true # only used when heroStyle equals background
+heroStyle = "background"
+layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = true

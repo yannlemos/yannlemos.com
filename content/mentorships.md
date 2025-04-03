@@ -1,53 +1,98 @@
 ---
-title: "Mentorships"
-description: "Learn about some of my projects."
+title: "Patreon & Mentorships"
+description: "Learn more about how my Patreon and my mentorships work."
+showTableOfContents: true
 showReadingTime: false
 showDate: false
 showWordCount: false
 showPagination: false
 ---
-{{< lead >}}
-How does it work?
-{{< /lead >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My [Patreon](https://www.patreon.com/yannlemos_) serves two purposes: it's <b>a way to make it easier to support my work</b> and also to be <b>a place where I offer mentorships for game developers</b>. 
+<!-- 
+It also hosts blog posts on things I find interesting and useful, but they are also available here on my website. I believe this type of content should be free, easily searchable and in text form, not in a paywalled garden. -->
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm using this page to help you better understand how the Patreon works and what mentorship means to me.
 
-{{< lead >}}
-Why seek a mentor?
-{{< /lead >}}
+### Why seek a mentor?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+There's Youtube tutorials everywhere and it has never been easier to learn to code and make a game by yourself, with LLMs etc... right? Well, let me share an illuminating example: me. I started out as a game designer and learned how to program in Unity by following tutorials.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I came to a certain point (which will be familiar to many game developers) where you go: "ok, but I want to make my own code, not just follow tutorials". It's a very frustrating bottleneck, and one in which I believe many give up. I didn't, however, and proceeded to spend years learning by myself. 
 
-{{< lead >}}
-Suggestions for each profile
-{{< /lead >}}
+And I learned so much shit wrong. So much. Not knowing how to parse the multitude of information on the internet about game development, I just blazed my way through and got burned in the process. It doesn't have to be this way.
 
-- <b>"Example 1".</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- <b>"Example 2".</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- <b>"Example 3".</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+So I decided to start mentoring developers. It's been amazing. 
 
-{{< lead >}}
-Testimonials
-{{< /lead >}}
+My mentorships are project-based, so you learn by doing, while I help you avoid pitfalls and structure your knowledge in an order that makes sense for your goals. hey go beyong the tutorial and help you avoid waste and unnecessary hardships. They can be about programming, design, business, mental health, strategy — I share what I've learned. 
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+This year, I've decided to start offering them in a more organized and user-friendly way through Patreon.
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+A mentor can make the difference in such a saturated indie market, with so many people making games and so many games coming out. I want to help people become the game devs they dream of, without burning in the process. 
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+That is what I wish I had, and am super excited to offer.
 
-{{< lead >}}
-Disclaimers
-{{< /lead >}}
+### Mentorship Tiers
 
-- <b>Point #1:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- <b>Point #2:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- <b>Collective Mentorship - $100/month</b>: You'll have access to a weekly 2-hour collective call with 10 other students of various backgrounds to work on complex projects and get direct feedback from me. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you!
 
----
+- <b>Personal Mentorship - $200/month</b>: You'll have access to a weekly 2-hour individual call with me and I'll propose unique projects for you to work on that match the games you want to make. We'll work together on these calls and I'll push you and share all I've learned. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you!
+
+{{< button href="https://www.patreon.com/yannlemos_" target="_self" >}}
+Become a member!
+{{< /button >}}
+
+### Suggestions for each profile
+
+- <b>"I'm not looking for mentorships, I'd just like to support your work."</b> That's lovely, thanks a lot! I recommend subscribing the basic tier of my Patreon ($2), or, if you're using one my tools or is just an awesome person, I recommend the second tier ($10) and you'll also have access to personalized support for any tool of mine.
+
+- <b>"I want to learn game development with you, but I’m a total beginner."</b>I'm really glad you found something you're so interested in. However, I'd recommend doing your first steps by following Youtube tutorials, like the ones offered freely by [Brackeys](https://www.youtube.com/@Brackeys). A mentorship is an expensive commitment and I believe it's best to take this leap when you're at the point of "Ok, I like this, I really want to do this and it's time to go beyond tutorials." I also recommend learning in [Godot](https://godotengine.org/), which is a free and open-source game engine, and my tool of choice for making games.
+
+- <b>"I have some experience, but I want to learn game development with you".</b> Then you'll be super welcome in my group mentorship! I suggest signing up to the collective mentorship ($200). 
+
+- <b>"I have some experience, but want to learn game development with you and I prefer a more personalized approach".</b> I'll be happy to guide you! I suggest signing up to the personal mentorship ($200). 
+
+- <b>"I'd love to learn with you but I don't have the financial means. Is there any scholarship or discount available?"</b> Unfortunately no, not at the moment. I really want to open pro-bono slots, but it's not feasible financially for me at the moment. It's one of my priorities though, and I hope to make it into a reality by the end of 2025. Sign up to my newsletter in the home page so you can notified when I'm able to offer it!
+
+### Testimonials
+
+
+<!-- > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+— Gustavo Kawika (Dallas, USA) -->
+
+> Perfect! A teacher with deep knowledge in game development! He’s also a musician and has worked on several projects, bringing a bunch of experience that can help beginner students at their own pace. 
+>   
+> Give Yann a chance—I really enjoyed learning from him.
+
+— Stephan Castiglioni (Vitória, Brazil)
+
+> I highly recommend Yann! Not only does he have a great teaching style, but he is also incredibly calm. He genuinely cares about your learning and makes sure you understand everything before moving forward.  
+>   
+> A major strength is his ability to adapt to your level of knowledge—he explains the absolute basics until they stick or dives into advanced topics with mastery, all to help you in the best way possible. He is one of the most patient, good-humored, and adaptable teachers I've ever met. I learned so much from Yann!  
+
+— Luiza Arantes (Vancouver, Canada)
+
+> "What can I say about Yann? Well, he's the kind of person you can talk to for hours and walk away not only with amazing stories but also with life-long lessons. In Design, where we met 10 years ago, I was immediately drawn to his vibrant personality and genuine passion for games.  
+>   
+> Beyond his vast knowledge in the field, Yann is incredibly patient; he has a special way of engaging people and knows how to capture a class's attention. He has a unique ability to turn complex topics into something interesting and easy to understand, creating a lighthearted yet content-rich learning environment. I have no doubt that he is an inspiring mentor who will greatly contribute to the training of future game development talents."
+
+— Julia Nicolescu (Rio de Janeiro, Brazil)
+
+> "Taking a class with someone who is passionate about what they teach is an infinitely better experience. Yann inspired me with his love for games and even more with his passion for teaching people how to make games and pursue this dream.  
+>   
+> He truly listens, pays attention to every little detail, cares about his students, knows a lot about the industry, and has great life stories to share. I highly recommend him."  
+
+— Alexia Figueiredo (Rio de Janeiro, Brazil)
+
+
+### Disclaimers
+
+
+- <b>Vacancies and waiting list:</b> Both mentoring tier have limited vacancies because I dedicate the majority of my time to my work. Patreon doesn't have a waiting list, so I recommend signing up to the basic tier ($5) and get into the student discord server, so you can stay tuned at the end/beginning of each month, when vacancies may open up.
+
+- <b>Breaks:</b> Every year I'll take breaks/vacations in dates communicated with at least a month of antecedence, so there will be no mentoring and no posts in those months — you can stop paying, but if you are my mentee, your spot will remain open and can be filled by someone else.
+
+- <b>Mentoring calls:</b> The mentoring calls are hands-on work, where you'll be in your game engine and I'll be accompanying you and at times sharing my screen to show/teach something. The calls will be scheduled at least 1 week in advance, with a non-negotiable day/time (always in Brazilian time) and won't be recorded, but you can record if you'd like.
+
+- <b>About absences:</b> If you're doing the personal mentoring and miss a scheduled call without at least a 12-hour warning, unless it's an absolute emergency, I'll unfortunately have to stop the mentorship with you and vacate your slot. I have been subjected to enough instances of students just "forgetting" and I think it's deeply disrespectful, and I can't teach someone who doesn't respect my time. There's a lot of prep that goes into the mentorship and I'm letting go of doing my own work for it. It may seem harsh, but it's important and non-negotiable.

@@ -4,9 +4,9 @@ description: "Award-Winning Game Developer, Musician and Teacher based in Rio de
 ---
 I'm an award-winning game dev, musician and teacher based in Brazil.
 
-Currently making games at [Studio Bravarda](https://studiobravarda.com/) with friends, developing tools for [Godot](https://github.com/yannlemos) and mentoring indie devs.
+Currently making games at [Studio Bravarda](https://studiobravarda.com/) with friends, developing [tools](https://github.com/yannlemos) for Godot and [mentoring](https://www.patreon.com/yannlemos_) other game developers.
 
-Sign up to my newsletter to get notified whenever I release a new game, tool, post or whatever weird thing I come up with.
+Sign up below to get notified whenever I release a new game, tool, post or whatever cool new thing I come up with. I'm not going to send a bunch of mail to you, don't worry, I also hate this kind of shit. Only goodies.
 <div class="signup-container">
   <!-- <h3>Email address</h3> -->
   <form action="https://formspree.io/f/mqapyqkr" method="POST">
