@@ -1,5 +1,6 @@
 colorScheme = "avocado"
 defaultAppearance = "dark"
+defaultBackgroundImage = "/img/background.svg"
 autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = false
@@ -20,7 +21,7 @@ showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
 showRecentItems = "3"
 showMoreLink = true
@@ -28,7 +29,7 @@ showMoreLinkDest = "/projects"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "."
+homepageImage = "/img/background.svg"
 
 [article]
 showDate = false
