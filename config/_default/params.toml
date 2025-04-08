@@ -28,7 +28,7 @@ showMoreLink = true
 showMoreLinkDest = "/projects"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 homepageImage = "/img/background.svg"
 
 [article]
