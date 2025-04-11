@@ -16,27 +16,35 @@ I'm using this page to help you better understand how the Patreon works and what
 
 ### Why seek a mentor?
 
-There's Youtube tutorials everywhere and it has never been easier to learn to code and make a game by yourself, with LLMs etc... right? Well, let me share an illuminating example: me. I started out as a game designer and learned how to program in Unity by following tutorials.
+There's Youtube tutorials everywhere and it has never been easier to learn to code and make a game by yourself, with LLMs etc... right? 
 
-I came to a certain point (which will be familiar to many game developers) where you go: "ok, but I want to make my own code, not just follow tutorials". It's a very frustrating bottleneck, and one in which I believe many give up. I didn't, however, and proceeded to spend years learning by myself. 
+Well, let me share an illuminating example: me. 
 
-And I learned so much shit wrong. So much. Not knowing how to parse the multitude of information on the internet about game development, I just blazed my way through and got burned in the process. It doesn't have to be this way.
+I started out as a game designer and learned how to program in Unity by following tutorials.
 
-So I decided to start mentoring developers. It's been amazing. 
+I came to a certain point (which will be familiar to many game developers) where you go: "Ok, but I want to make my own code, not just follow tutorials". 
 
-My mentorships are project-based, so you learn by doing, while I help you avoid pitfalls and structure your knowledge in an order that makes sense for your goals. hey go beyong the tutorial and help you avoid waste and unnecessary hardships. They can be about programming, design, business, mental health, strategy — I share what I've learned. 
+It's a very frustrating bottleneck, and one in which I believe many give up. I didn't, however, and proceeded to spend years learning by myself. 
 
-This year, I've decided to start offering them in a more organized and user-friendly way through Patreon.
+I learned so much stuff wrong. So much. Not knowing how to parse the multitude of information on the internet about game development, I just blazed my way through and got burned in the process.
 
-A mentor can make the difference in such a saturated indie market, with so many people making games and so many games coming out. I want to help people become the game devs they dream of, without burning in the process. 
+That's why I decided to start mentoring developers: I don't want people to suffer like I did. The process can be smoother, all the while still being challenging and incredibly rewarding. 
+
+It's been pretty great!
+
+I taught for four years in Brazil's biggest professional education institution (Senac-RJ), honing my skills as a teacher in a PBL (Project-Based Learning) approach, lecturing in design, game development and marketing classes. That's why my mentorships are project-based: you learn how to make games by making games. 
+
+I'll help you avoid pitfalls and structure your knowledge in an order that makes sense for your goals. That way, you can finally go beyong tutorials, avoid waste and unnecessary hardships. They can be about programming, design, business, mental health, strategy — I share what I've learned as you need it. 
+
+I want to help people become the game devs they dream of, without burning in the process.
 
 That is what I wish I had, and am super excited to offer.
 
 ### Mentorship Tiers
 
-- <b>Collective Mentorship - $100/month</b>: You'll have access to a weekly 2-hour collective call with 10 other students of various backgrounds to work on complex projects and get direct feedback from me. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you!
+- <b>Group Mentorship - $100/month</b>: You'll have access to a weekly 2-hour collective call with 10 other students of various backgrounds to work on complex projects and get direct feedback from me. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you! We'll work in the Godot game engine.
 
-- <b>Personal Mentorship - $200/month</b>: You'll have access to a weekly 2-hour individual call with me and I'll propose unique projects for you to work on that match the games you want to make. We'll work together on these calls and I'll push you and share all I've learned. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you!
+- <b>Personal Mentorship - $200/month</b>: You'll have access to a weekly 2-hour individual call with me and I'll propose unique projects for you to work on that match the games you want to make. We'll work together on these calls and I'll push you and share all I've learned. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you! We'll work in your game engine of choice.
 
 {{< button href="https://www.patreon.com/yannlemos_" target="_self" >}}
 Become a member!
@@ -48,9 +56,9 @@ Become a member!
 
 - <b>"I want to learn game development with you, but I’m a total beginner."</b>I'm really glad you found something you're so interested in. However, I'd recommend doing your first steps by following Youtube tutorials, like the ones offered freely by [Brackeys](https://www.youtube.com/@Brackeys). A mentorship is an expensive commitment and I believe it's best to take this leap when you're at the point of "Ok, I like this, I really want to do this and it's time to go beyond tutorials." I also recommend learning in [Godot](https://godotengine.org/), which is a free and open-source game engine, and my tool of choice for making games.
 
-- <b>"I have some experience, but I want to learn game development with you".</b> Then you'll be super welcome in my group mentorship! I suggest signing up to the collective mentorship ($200). 
+- <b>"I have some experience, but I want to learn game development with you".</b> Then you'll be super welcome in my group mentorship! I suggest signing up to the collective mentorship ($100). We'll work in the Godot game engine.
 
-- <b>"I have some experience, but want to learn game development with you and I prefer a more personalized approach".</b> I'll be happy to guide you! I suggest signing up to the personal mentorship ($200). 
+- <b>"I have some experience, but want to learn game development with you and I prefer a more personalized approach and/or don't want to work with Godot".</b> I'll be happy to guide you! I suggest signing up to the personal mentorship ($200). We'll work with the game engine of your choice.
 
 - <b>"I'd love to learn with you but I don't have the financial means. Is there any scholarship or discount available?"</b> Unfortunately no, not at the moment. I really want to open pro-bono slots, but it's not feasible financially for me at the moment. It's one of my priorities though, and I hope to make it into a reality by the end of 2025. Sign up to my newsletter in the home page so you can notified when I'm able to offer it!
 
@@ -78,13 +86,13 @@ Become a member!
 — Luiza Arantes (Vancouver, Canada)
 
 
-### Disclaimers
+### Disclaimers & FAQ
 
 
-- <b>Vacancies and waiting list:</b> Both mentoring tier have limited vacancies because I dedicate the majority of my time to my work. Patreon doesn't have a waiting list, so I recommend signing up to the basic tier ($5) and get into the student discord server, so you can stay tuned at the end/beginning of each month, when vacancies may open up.
+- <b>About vacancies and waiting list:</b> Both mentoring tier have limited vacancies because I dedicate the majority of my time to my work. Patreon doesn't have a waiting list, so I recommend signing up to the basic tier ($5) and get into the student discord server, so you can stay tuned at the end/beginning of each month, when vacancies may open up.
 
-- <b>Breaks:</b> Every year I'll take breaks/vacations in dates communicated with at least a month of antecedence, so there will be no mentoring and no posts in those months — you can stop paying, but if you are my mentee, your spot will remain open and can be filled by someone else.
+- <b>About vacations:</b> Every year I'll take breaks/vacations in dates communicated with at least a month of antecedence, so there will be no mentoring and no posts in those months — you can stop paying, but if you are my mentee, your spot will remain open and can be filled by someone else.
 
-- <b>Mentoring calls:</b> The mentoring calls are hands-on work, where you'll be in your game engine and I'll be accompanying you and at times sharing my screen to show/teach something. The calls will be scheduled at least 1 week in advance, with a non-negotiable day/time (always in Brazilian time) and won't be recorded, but you can record if you'd like.
+- <b>About the mentoring calls:</b> The mentoring calls are hands-on work, where you'll be in your game engine and I'll be accompanying you and at times sharing my screen to show/teach/debug something. The calls will be scheduled at least 1 week in advance, with a non-negotiable day/time (always in Brazilian time) and won't be recorded, but you can record if you'd like.
 
 - <b>About absences:</b> If you're doing the personal mentoring and miss a scheduled call without at least a 12-hour warning, unless it's an absolute emergency, I'll unfortunately have to stop the mentorship with you and vacate your slot. I have been subjected to enough instances of students just "forgetting" and I think it's deeply disrespectful, and I can't teach someone who doesn't respect my time. There's a lot of prep that goes into the mentorship and I'm letting go of doing my own work for it. It may seem harsh, but it's important and non-negotiable.
