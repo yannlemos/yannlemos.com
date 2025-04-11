@@ -57,9 +57,13 @@ Become a member!
 ### Testimonials
 
 
-<!-- > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> Yann has been coaching me in Godot Engine for a couple of months now, and I honestly can’t express how grateful and lucky I am to be learning from him.
+> Before I reached out, I had been learning Godot and programming on my own for a little over a year through online tutorials, videos and Udemy. Though great resources, I felt like I was just “copying and pasting” information instead of actually “learning it”. I understood some of the concepts but I simply couldn’t put anything into practice on my own. 
+>
+> Yann is sharp, compassionate, and genuinely passionate about teaching. He understands where I am as a student and has been finding different and smart ways to approach the concepts I struggle with, so at the end of every session I’m always feeling accomplished and pumped for the next step.
+> From our very first session, Yann gave me a sense of clarity and self-assurance. I went from thinking, “Wouldn’t it be cool if I could do something like this?” to realizing, “Wait, I’m already doing it."
 
-— Gustavo Kawika (Dallas, USA) -->
+— Gustavo Kawika (Dallas, USA)
 
 > Perfect! A teacher with deep knowledge in game development! He’s also a musician and has worked on several projects, bringing a bunch of experience that can help beginner students at their own pace. 
 >   
