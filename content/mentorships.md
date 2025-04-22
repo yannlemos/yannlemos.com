@@ -42,7 +42,7 @@ That is what I wish I had, and am super excited to offer.
 
 ### Mentorship Tiers
 
-- <b>Group Mentorship - $100/month</b>: You'll have access to a weekly 2-hour collective call with 5 other students of various backgrounds to work on complex projects and get direct feedback from me. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you! We'll work in the Godot game engine.
+- <b>Group Mentorship - $100/month</b>: You'll have access to a weekly 2-hour collective call with 4 other students of various backgrounds to work on complex projects and get direct feedback from me. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you! We'll work in the Godot game engine.
 
 - <b>Personal Mentorship - $200/month</b>: You'll have access to a weekly 2-hour individual call with me and I'll propose unique projects for you to work on that match the games you want to make. We'll work together on these calls and I'll push you and share all I've learned. You'll also have access to the student discord server where you can share your projects and get feedback if that's interesting to you! We'll work in your game engine of choice.
 
