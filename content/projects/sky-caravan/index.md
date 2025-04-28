@@ -45,6 +45,8 @@ Seeing my game on a Nintendo console was also a dream come true, made possible t
 
 If someone had told me as a kid that I would one day put a talking anteater chef on a Nintendo console, I’d be flabbergasted—but extremely interested.
 
+<iframe src="https://store.steampowered.com/widget/1792270/" frameborder="0" width="646" height="190"></iframe>
+
 ### Extras
 
 The soundtrack is freely available in my Youtube channel:

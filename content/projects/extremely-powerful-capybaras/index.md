@@ -37,6 +37,8 @@ That's when we made the biggest decision fo the project: to transform EPC into a
 
 Eventually, we made it to December 5th 2023, the release date for the game. The project changed scenarios so many times, new requirements, new challenges, all in my first experience as being a lead programmer. It was crushing at times. But we shipped it. 
 
+<iframe src="https://store.steampowered.com/widget/2089980/" frameborder="0" width="646" height="190"></iframe>
+
 ### Extras
 
 The soundtrack is freely available in my Youtube channel:
