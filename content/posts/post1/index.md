@@ -2,6 +2,7 @@
 title: "What I learned writing 90.000 words of interactive narrative (twice)"
 summary: "A deep dive into shipping a Unity game written in the Ink scripting language."
 categories: ["posts"]
+type: ["Blog"]
 tags: ["game dev", "writing"]
 #externalUrl: ""
 #showSummary: true

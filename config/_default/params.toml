@@ -8,7 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 smartTOC = true
 highlightCurrentMenuArea = true
-mainSections = [ "Project" ]
+mainSections = [ "posts" ]
 
 [header]
 layout = "fixed-fill-blur"
@@ -22,10 +22,10 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = true
+showRecent = false
 showRecentItems = "3"
 showMoreLink = true
-showMoreLinkDest = "/projects"
+showMoreLinkDest = "/posts"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
@@ -100,7 +100,15 @@ cardViewScreenWidth = true
 
 [fathomAnalytics]
 
+# config/_default/params.toml
+
 [umamiAnalytics]
+  websiteid = "7d8a5ca7-46ed-463e-8a8d-8c9ffb72a0c0"
+  domain = "yannlemos.com"
+  dataDomains = ""
+  scriptName = ""
+  enableTrackEvent = true
+
 
 [buymeacoffee]
 

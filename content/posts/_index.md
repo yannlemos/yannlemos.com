@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Posts"
 
 showDate : false
 showDateUpdated : false

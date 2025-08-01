@@ -8,6 +8,13 @@ pageRef = "projects"
 identifier = ""
 weight = 1
 
+# [[main]]
+# name = "Posts"
+# pre = "list"
+# pageRef = "posts"
+# identifier = "ikO9FuGztx"
+# weight = 2
+
 [[main]]
 name = "Mentorships"
 pre = "heart"
@@ -22,12 +29,12 @@ weight = 3
 # identifier = ""
 # weight = 2
 
-# [[main]]
-# name = "Blog"
-# pre = "list"
-# pageRef = "posts"
-# identifier = "ikO9FuGztx"
-# weight = 4
+[[main]]
+name = "About"
+pageRef = "about"
+pre = "comment"
+identifier = "FkNu64n5w6"
+weight = 5
 
 [[main]]
 name = "Now"
@@ -36,12 +43,7 @@ pageRef = "now"
 identifier = "80eqLJnwML"
 weight = 6
 
-[[main]]
-name = "About"
-pageRef = "about"
-pre = "comment"
-identifier = "FkNu64n5w6"
-weight = 5
+
 
 [[footer]]
 none = "none"
